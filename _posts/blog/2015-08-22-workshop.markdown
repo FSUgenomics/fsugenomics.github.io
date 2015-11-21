@@ -1,0 +1,23 @@
+---
+layout: post
+title: "FSU concludes a two-week plant chromatin workshop"
+#date: 2014-04-25 16:54:46
+author: "Daniel Vera"
+categories:
+- blog
+img: nsf-workshop-2015_0030.jpg
+thumb: nsfworkshop1.jpg
+---
+
+
+Today concluded a two-week workshop hosted by FSU Associate Professor of Biological Science Hank Bass and The Center for Genomics and Personalized Medicine Director Daniel Vera. The workshop was part of an outreach activity for their [recently awarded NSF grant](/blog/nsf-award/) and was attended by researchers from Cornell University, Cold Spring Harbor Laboratory, Donald Danforth Plant Sciences Center, and Florida State University. Attendees were trained to perform a new technique developed by Bass and Vera for studying how DNA is organized and regulated in plant cells. Workshops are planned to take place every year for the duration of the 4-year grant, and the next workshop is expected to take place during the summer of 2016.
+
+___
+
+![](/assets/img/blog/nsf-workshop-2015_0003.jpg)
+![](/assets/img/blog/nsf-workshop-2015_0009.jpg)
+![](/assets/img/blog/nsf-workshop-2015_0012.jpg)
+![](/assets/img/blog/nsf-workshop-2015_0013.jpg)
+![](/assets/img/blog/nsf-workshop-2015_0015.jpg)
+![](/assets/img/blog/nsf-workshop-2015_0024.jpg)
+![](/assets/img/blog/nsf-workshop-2015_0030.jpg)
