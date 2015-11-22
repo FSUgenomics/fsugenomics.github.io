@@ -5,9 +5,9 @@
     <description>The FSU Center for Genomics and Personalized Medicine</description>
     <link>http://genomics.fsu.edu/</link>
     <atom:link href="http://genomics.fsu.edu/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 21 Nov 2015 15:19:43 -0500</pubDate>
-    <lastBuildDate>Sat, 21 Nov 2015 15:19:43 -0500</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <pubDate>Sun, 22 Nov 2015 10:19:39 -0500</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2015 10:19:39 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Blog: Genomics seminar series to start in Spring of 2016</title>
@@ -47,7 +47,7 @@
     
       <item>
         <title>Blog: NSF plant genome grant awarded to FSU</title>
-        <description>&lt;p&gt;The National Science Foundation has awarded a $2.1 million grant to a team of researchers at Florida State University and Florida Agricultural and Mechanical University to study the maize genome. The project is led by FSU Associate Professor of Biological Science Hank Bass, who has teamed up with FSU Associate Professor of Biological Science Jonathan Dennis, FSU Center for Genomics and Personalized Medicine Director Daniel Vera, FSU Associate Professor of Statistics Jinfeng Zhang, FAMU Professor of Viticulture and Developmental Biology Violeta Tsolova, and FAMU Professor of Agronomy Oghenekome Onokpise.&lt;/p&gt;
+        <description>&lt;p&gt;The National Science Foundation has awarded a $2.1 million grant to a team of researchers at Florida State University and Florida Agricultural and Mechanical University to study the maize genome. The project is led by FSU Associate Professor of Biological Science Hank Bass, who has teamed up with FSU Center for Genomics and Personalized Medicine Director Daniel Vera, FSU Associate Professor of Biological Science Jonathan Dennis, FSU Associate Professor of Statistics Jinfeng Zhang, FAMU Professor of Viticulture and Developmental Biology Violeta Tsolova, and FAMU Professor of Agronomy Oghenekome Onokpise.&lt;/p&gt;
 
 &lt;p&gt;The goal of this project is to develop a genome-wide map of chromatin accessibility as a foundational resource for the integration of other maize genomic data sets across many different projects. This project builds on a breakthroughs from the previous NSF-funded project on characterizing the chromatin landscape in the maize genome. Five diverse tissues of maize will be profiled to produce high-quality epigenomic reference maps. Annual workshops will provide participants from FSU and other institutions with new genome research data and expertise for their own research programs.&lt;/p&gt;
 
@@ -63,15 +63,19 @@
       </item>
     
       <item>
-        <title>Question: Why did the Chicken cross the road?</title>
-        <description>&lt;p&gt;To get to the other side.&lt;/p&gt;
+        <title>Project: YOUR PROJECT NAME</title>
+        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
+&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://genomics.fsu.edu/question/your-project-name</link>
-        <guid isPermaLink="true">http://genomics.fsu.edu/question/your-project-name</guid>
+        <link>http://genomics.fsu.edu/project/your-project-name</link>
+        <guid isPermaLink="true">http://genomics.fsu.edu/project/your-project-name</guid>
         
         
-        <category>question</category>
+        <category>project</category>
         
       </item>
     
