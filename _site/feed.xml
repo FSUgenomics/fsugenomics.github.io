@@ -5,9 +5,28 @@
     <description>The FSU Center for Genomics and Personalized Medicine</description>
     <link>http://genomics.fsu.edu/</link>
     <atom:link href="http://genomics.fsu.edu/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 07 Dec 2015 13:55:12 -0500</pubDate>
-    <lastBuildDate>Mon, 07 Dec 2015 13:55:12 -0500</lastBuildDate>
+    <pubDate>Fri, 29 Jan 2016 13:03:20 -0500</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2016 13:03:20 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Blog: Genomics and Proteomics seminar series to begin in February 2016</title>
+        <description>&lt;p&gt;The Translational Science Laboratory (College of Medicine) and The Center for Genomics and Personalized Medicine will be holding Proteomics/Genomics joint interest group meetings on second Monday of each month at 11:30 AM. We intend to conduct seminars, workshops and technical discussions related to proteome, metabolome and genome analysis. The first introductory meeting will be held on February 8, 2016 where we intend to provide an overview of the facilities and services available to FSU researchers.&lt;/p&gt;
+
+&lt;p&gt;Proteomics/Genomics Joint Interest Group Meeting
+Location: Room 1302, College of Medicine
+Time: 11:30 AM to 12:30 PM
+Schedule: Second Monday of each month&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 29 Jan 2016 00:00:00 -0500</pubDate>
+        <link>http://genomics.fsu.edu/blog/seminar-series-announcement</link>
+        <guid isPermaLink="true">http://genomics.fsu.edu/blog/seminar-series-announcement</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Blog: Genomics seminar series to start in Spring of 2016</title>
@@ -59,23 +78,6 @@
         
         
         <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://genomics.fsu.edu/project/your-project-name</link>
-        <guid isPermaLink="true">http://genomics.fsu.edu/project/your-project-name</guid>
-        
-        
-        <category>project</category>
         
       </item>
     
