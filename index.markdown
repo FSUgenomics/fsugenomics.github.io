@@ -32,4 +32,5 @@ The CGPM is dedicated to helping investigators secure funding from both public a
 
 
 ## Requesting Services
-**[Email us](mailto:vera@genomics.fsu.edu)**  to schedule a consultation.
+Please see our **[Instructions for Applying for CGPM services](/proposal)** in order to request services from the CGPM.
+**[Email us](mailto:vera@genomics.fsu.edu)** or complete our **[Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeNPk8P4ZJ96H7ti03ldYOZD1lBV9nLRVJMZVy6VteqdUmaLA/viewform)** to schedule a consultation.

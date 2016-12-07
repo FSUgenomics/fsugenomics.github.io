@@ -90,6 +90,68 @@ members:
       # - title: twitter
         # url: http://twitter.com/handle
 
+affiliates:
+  - name: James Fadool
+    text: Associate Professor of Biological Science
+    img: fadool.jpg
+    social:
+      - title: envelope
+        url: mailto:jfadool@bio.fsu.edu
+  - name: Hank Bass
+    text: Associate Professor of Biological Science
+    img: bass.jpg
+    social:
+      - title: envelope
+        url: mailto:bass@bio.fsu.edu
+  - name: Yanming Yang
+    text: Assistant In Bioinformatics, Translational Sciences Lab
+    img: yanming.jpg
+    social:
+      - title: envelope
+        url: mailto:yanming.yang@med.fsu.edu
+  - name: Yanchang Wang
+    text: Associate Professor of Biomedical Sciences
+    img: yanchang.jpg
+    social:
+      - title: envelope
+        url: mailto:yanchang.wang@med.fsu.edu
+  - name: Michael Roper
+    text: Associate Professor of Biochemistry
+    img: roper.jpg
+    social:
+      - title: envelope
+        url: mailto:roper@chem.fsu.edu
+  - name: Choogon Lee
+    text: Associate Professor of Biomedical Sciences
+    img: choogon.jpg
+    social:
+      - title: envelope
+        url: mailto:clee@neuro.fsu.edu
+  - name: Jinfeng Zhang
+    text: Associate Professor of Statistics
+    img: jinfeng.jpg
+    social:
+      - title: envelope
+        url: mailto:jinfeng@stat.fsu.edu
+  - name: Jian Feng
+    text: Assistant Professor of Biological Science
+    img: jian.jpg
+    social:
+      - title: envelope
+        url: mailto:feng@bio.fsu.edu
+  - name: Hengli Tang
+    text: Professor of Biological Science
+    img: tang.jpg
+    social:
+      - title: envelope
+        url: mailto:tang@bio.fsu.edu
+  - name: Jamila Horabin
+    text: Associate Professor of Biomedical Sciences
+    img: jamila.jpg
+    social:
+      - title: envelope
+        url: mailto:jamila.horabin@med.fsu.edu
+
 # Clients information. Shown on Home and About pages.
 clients:
   - name: dribbble
