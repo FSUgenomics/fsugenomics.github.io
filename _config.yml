@@ -151,6 +151,12 @@ affiliates:
     social:
       - title: envelope
         url: mailto:jamila.horabin@med.fsu.edu
+  - name: Darin Rokyta
+    text: Associate Professor of Biological Science
+    img: rokyta.jpg
+    social:
+      - title: envelope
+        url: mailto:drokyta@bio.fsu.edu
 
 # Clients information. Shown on Home and About pages.
 clients:
